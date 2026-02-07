@@ -176,7 +176,7 @@ La Visionaria IIIF Plugin Collection è una suite di plugin WordPress che facili
 1. Copia la cartella dei singoli plugin nella directory `/wp-content/plugins/` oppure carica il file .zip dal pannello di amministrazione di Wordpress
 2. Attiva i plugin dal pannello di amministrazione di WordPress
 
-### 3. Attiva i Plugin
+### Attiva i Plugin
 - Accedi al Dashboard WordPress
 - Vai su **Plugin > Plugin Installati**
 - Attiva i seguenti plugin:
@@ -189,7 +189,7 @@ La Visionaria IIIF Plugin Collection è una suite di plugin WordPress che facili
 ### Configurazione Base
 I plugin funzionano out-of-the-box senza configurazione aggiuntiva.
 
-### 4. Configurazione ACF (per IIIF Manifest Printer)
+### Configurazione ACF (per IIIF Manifest Printer)
 - Vai su **ACF > Field Groups**
 - Crea un nuovo field group o utilizza uno esistente
 - Aggiungi un campo `manifest_id` di tipo Text
