@@ -1,0 +1,77 @@
+# Macos
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+.Spotlight-V100
+.Trashes
+
+# IDE & Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+.vim
+.emacs
+
+# NPM & Yarn (se usati per build tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# PHP
+composer.phar
+composer.lock
+vendor/
+
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/backup-*
+.htaccess
+wp-cli.yml
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+*.log
+
+# IDE-specific
+.DS_Store
+.vscode
+.idea
+*.swp
+*.swo
+
+# Build & Distribution
+dist/
+build/
+*.zip
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Miscellaneous
+.cache/
+.tmp/
+*.tar.gz
+*.rar

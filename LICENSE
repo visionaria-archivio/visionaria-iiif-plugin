@@ -1,0 +1,49 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) 2026 Visionaria, CSAC, Università degli Studi di Parma, Basilink Art srls
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/agpl-3.0.html>.
+
+===
+
+ADDITIONAL TERMS and CONDITIONS
+
+1. DEFINITION OF "THIS PROGRAM"
+   "This program" refers to the Visionaria IIIF Plugin Collection, including all
+   plugins, documentation, and associated materials.
+
+2. NETWORK USE
+   If you modify this program and use it over a network, you must provide access to
+   the modified source code to all users interacting with it over the network.
+
+3. DERIVATIVE WORKS
+   Any derivative works must be distributed under the same AGPLv3 license.
+
+4. NO LIABILITY
+   This program comes with NO WARRANTY. The copyright holders and contributors shall
+   not be liable for any damages or losses arising from the use or misuse of this
+   software.
+
+5. ATTRIBUTION
+   Original development: CSAC, Visionaria, Università degli Studi di Parma, Basilink Art srls
+
+===
+
+Per la versione completa della licenza AGPLv3, visita:
+https://www.gnu.org/licenses/agpl-3.0.html
+
+La licenza AGPLv3 è una licenza open source copyleft che garantisce libertà di
+utilizzo, modifica e distribuzione del software, preservando queste libertà per
+gli utenti finali.
