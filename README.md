@@ -214,4 +214,5 @@ Per segnalare problemi o suggerire miglioramenti, si prega di contattare il team
 
 ## 📝 Cronologia delle Versioni
 
-- **v1.0** (7 febbraio 2026) - Release iniziale della collezione di plugin
+- **v1.0.0** (7 febbraio 2026) - Release iniziale della collezione di plugin
+- **v1.0.1** (7 febbraio 2026) - Aggiornamento della documentazione
