@@ -7,7 +7,7 @@ Carica automaticamente i file JSON nel cartelle `/manifest` all'interno della di
 1.0
 
 ## Autore
-Nicolò Serafino
+Nicolò Serafino, Leandro Summo, Basilink Art srls, CSAC Parma, Università degli Studi di Parma.
 
 ## Funzionalità
 - Intercetta il caricamento dei file JSON
