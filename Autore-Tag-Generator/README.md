@@ -7,7 +7,7 @@ Crea automaticamente una categoria figlia con il titolo del post per il Custom P
 1.1
 
 ## Autore
-Nicolò Serafino
+Nicolò Serafino, Leandro Summo, Basilink Art srls, CSAC Parma, Università degli Studi di Parma.
 
 ## Funzionalità
 - Monitora la pubblicazione di nuovi post del tipo "autore"
