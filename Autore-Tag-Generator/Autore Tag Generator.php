@@ -15,7 +15,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  *
  * @license GNU Affero General Public License v3.0
- * @copyright 2026 Nicolò Serafino, Visionaria, CSAC, Università degli Studi di Parma, Basilink Art srls
+ * @copyright 2026 Nicolò Serafino, Leandro Summo, Basilink Art srls, CSAC Parma, Università degli Studi di Parma.
  */
 
 function create_category_for_autore_on_publish($post_id) {
