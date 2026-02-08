@@ -7,7 +7,7 @@ Converte automaticamente i testi con asterischi in `<em>` e gli URL in link clic
 1.1
 
 ## Autore
-Nicolò Serafino
+Nicolò Serafino, Leandro Summo, Basilink Art srls, CSAC Parma, Università degli Studi di Parma.
 
 ## Funzionalità
 - Trasforma automaticamente il testo racchiuso tra asterischi (`*testo*`) in formato corsivo (`<em>`)
