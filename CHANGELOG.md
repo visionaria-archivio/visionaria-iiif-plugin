@@ -5,13 +5,17 @@ Tutte le modifiche importanti a questo progetto saranno documentate in questo fi
 Il formato è basato su [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 e questo progetto aderisce al [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [1.0.2] - 2026-02-08
 
-### Planned
-- Supporto per IIIF Presentation API v4
-- Integrazione con Web Annotations
-- Supporto per manifesti multilayer
-- Dashboard analytics avanzato
+### Update
+- Aggiornamento della licenza
+
+---
+
+## [1.0.1] - 2026-02-07
+
+### Update
+- Aggiornamento della documentazione
 
 ---
 
