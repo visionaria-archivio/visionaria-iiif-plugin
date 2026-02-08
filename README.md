@@ -1,7 +1,5 @@
 # Visionaria IIIF Plugin Collection
-Sistema completo di plugin WordPress per l'integrazione di IIIF (International Image Interoperability Framework) e fruizione di contenuti digitali con Mirador viewer.
-
-- per Visionaria: l'archivio figitale della comunicazione dello CSAC di Parma
+Sistema completo di plugin WordPress per l'integrazione di IIIF (International Image Interoperability Framework) e fruizione di contenuti digitali con Mirador viewer per Visionaria: l'archivio figitale della comunicazione dello CSAC di Parma. Finanziato nell'ambito del progetto CHANGES - Spoke 4.
 - live example: www.visionaria-archivio.it
 
 ## 📋 Indice
