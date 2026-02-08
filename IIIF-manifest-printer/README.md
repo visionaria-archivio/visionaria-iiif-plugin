@@ -7,7 +7,7 @@ Inserisce automaticamente il contenuto di un manifest IIIF nel post, includendo 
 1.5
 
 ## Autore
-Nicolò Serafino
+Nicolò Serafino, Leandro Summo, Basilink Art srls, CSAC Parma, Università degli Studi di Parma.
 
 ## Funzionalità
 - Recupera automaticamente il contenuto di un manifest IIIF tramite URL
